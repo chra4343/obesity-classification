@@ -1,17 +1,7 @@
 # Obesity-Classification
-
-[Link to Report](https://github.com/pymche/Machine-Learning-Obesity-Classification/blob/master/Obesity_Classification.ipynb)
-
-Prediction of levels of obesity by using machine learning classification models.
-
-Data collected from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition+). Official publication of the research that provides data can be accessed from [here](https://www.sciencedirect.com/science/article/pii/S2352340919306985?via%3Dihub).
-
 ## About the Data
-
 Dietary, exercise and personal daily habits of individuals from Mexico, Peru and Columbia are recorded to build estimation of obesity levels.
-
 Obesity Level will be used as the target (y) variable, which consists of 7 classes - Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II and Obesity Type III.
-
 There are 17 attributes in total related to individual habits that are likely to determine obesity levels, such as number of main meals, time using technology devices, gender and transportation used. 
 
 Details of the questions and possible answers collected for the data can be found in the link provided above.
@@ -36,7 +26,3 @@ All of the above preprocessing procedures are bundled into a pipeline, which als
 * Stochastic Gradient Descent
 * Support Vector Machine
 
-A classification report of each model is also included.
-
-
-First commit: 1st September, 2020
